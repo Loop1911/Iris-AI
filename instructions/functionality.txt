@@ -1,0 +1,10 @@
+-Intelligent Response and Interactive System
+-Uses AWS Polly for speech synthesis
+-say "Iris", and the prompt to generate response from gpt-3.5-turbo
+-say "play song xyz" to play a song on the Microsoft Edge browser which opens a tab and closes after playing.
+-say "Iris remind me" to set a reminder using Google Calendar and get notifications on your phone
+#bug: check bugs.txt(1)
+-Iris now has the ability to remember context and previous responses while having a conversation.
+-Iris can make witty remarks, lead a convo, make jokes and even flirt too.
+-Iris has a new GUI using Tkinter
+

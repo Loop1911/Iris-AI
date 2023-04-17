@@ -1,0 +1,9 @@
+.env
+my_calendar.py
+client_secret.json
+polly.py
+Images/
+Agenda.txt
+__pycache__/
+
+

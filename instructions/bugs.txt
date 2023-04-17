@@ -1,0 +1,3 @@
+1. While setting reminders, for 1 and 2 a.m or p.m the minutes input is bugged.
+   for ex: 145 a.m. and 215 p.m. is the input it assumes instead of 1:45 a.m. and 2:15 p.m.
+   Therefore, avoid using 1:minutes and 2:minutes format for specifying time for reminders.
